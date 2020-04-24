@@ -1,2 +1,2 @@
 # spring-cloud-config
-配置中心 杀杀杀
+配置中心
